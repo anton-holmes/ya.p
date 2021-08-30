@@ -1,2 +1,5 @@
 #!/usr/bin/env python
-print(1)
+print(7 ** 2)
+print(7 ** -2)
+print(7 **(-2))
+print(7 ** 3)
