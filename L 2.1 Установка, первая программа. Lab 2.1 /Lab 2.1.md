@@ -154,3 +154,4 @@
 Подробнее о переменых
 
 https://pythonru.com/uroki/python-dlja-nachinajushhih/2-peremennye
+

@@ -24,6 +24,7 @@ section {
 ###### Попов Антон Дмитриевич
 
 :fast_forward: https://gitlab.com/antonholmes
+:fast_forward: https://github.com/anton-holmes
 
 ---
 
