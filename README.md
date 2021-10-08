@@ -1,4 +1,4 @@
-# YA.P
+# YA.P course
 
 Course python(ru)
 
